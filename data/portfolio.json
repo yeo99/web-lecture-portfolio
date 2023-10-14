@@ -102,7 +102,7 @@
     "skills":[
        {
           "id":"1",
-          "title":"Javascript",
+          "title":"JavaScript",
           "period": "Familiarity",
           "description":"ES6 문법을 통해서 서비스를 제작할 수 있습니다. 현재는 협업을 위해 Typescript를 공부 중입니다.",
           "forFuture": "Check interview questions for filling  thos texts"
