@@ -1,0 +1,148 @@
+
+{
+    "name":"SeungCheol",
+    "headerTaglineOne":"Hello 👋",
+    "headerTaglineTwo":"I'm SeungCheol Yeo",
+    "headerTaglineThree":"Studying Web Develop",
+    "headerTaglineFour":"based in Goyang, Korea.",
+    "showBlog":true,
+    "socials":[
+       {
+          "title":"Github",
+          "link":"https://github.com/yeo99"
+       },
+       {
+          "title":"LinkedIn",
+          "link":"https://www.linkedin.com/in/seung-cheol-yeo-106b15236/"
+       },
+       {
+          "title":"Blog",
+          "link":"https://ye0ye0.tistory.com"
+       },
+       {
+          "title":"Email",
+          "link":"mailto:tmdcjf0312@naver.com"
+       }
+    ],
+    "projects":[
+      {
+         "id":"1",
+         "title":"SBS LOUD 생방송 온라인 투표 웹뷰 개발",
+         "description":"Frontend Development",
+         "imageKey":"sbs-loud",
+         "url":"",
+         "stack": "VanillaJS, EJS, AWS, Zepplin",
+         "work1": "HTML CSS JavaScript 를 이용하여 인게임 내 웹뷰 페이지 제작",
+         "work2": "EJS를 이용하여 API 요청 데이터 핸들링",
+         "work3": "가변단위를 이용하여 반응형 웹으로 제작",
+         "work4": "Shell Script 를 통하여 AWS EC2에 배포",
+         "work5": "Jira 를 통한 이슈 관리"
+      },
+      {
+         "id":"2",
+         "title":"SuperStar 시리즈 사전예약 페이지 개발",
+         "description":"Frontend Development",
+         "imageKey":"superstar",
+         "url":"",
+         "stack": "VanillaJS, EJS, AWS, Figma",
+         "work1": "AWS CodeBuild 및 AWS CodePipeline 을 통해 GitHub 에 반영시 AWS EC2 에 자동 배포되도록 프로세스 최적화",
+         "work2": "다양한 브라우저에서 동일한 UI 를 제공하기위한 크로스 브라우징",
+         "work3": "JavaScript 를 통하여 Modal, Dropdown 등 PC, Mobile UI 제작",
+         "work4": "YouTube iframe 최적화를 위하여 YouTube Player API 메뉴얼을 참고하여 레이지 로딩 기능 추가",
+         "work5": "미디어 쿼리를 이용하여 반응형 웹으로 제작",
+         "work6": "Firebase Prediction 기능을 사용하여 “사전 예약 달성자 수” 기능 구현"
+      },
+      {
+         "id":"3",
+         "title":"보아치과 홈페이지 개발",
+         "description":"Frontend Development",
+         "imageKey":"boa",
+         "url":"",
+         "stack": "PHP, Laravel, VanillaJS(ES6+), AWS, Zepplin",
+         "work1": "Laravel 프레임워크를 이용하여 개발",
+         "work2": "Laravel blade 를 이용하여 컴포넌트화, 재사용 통해 코드 단축",
+         "work3": "Sass의 mixin, 커스텀 함수를 사용하여 코드 길이 단축",
+         "work4": "미디어 쿼리를 이용하여 반응형 웹 페이지 제작"
+      },
+      {
+         "id":"4",
+         "title":"마켓뱅 와인 수입사 관리자 페이지 개발",
+         "description":"Frontend Development",
+         "imageKey":"marketbang",
+         "url":"",
+         "stack": "Vue3, Bootstrap",
+         "work1": "Vue3를 이용하여 쓰리랩스 주류 도매 플랫폼 관리자 페이지 개발",
+         "work2": "Swagger를 이용하여 백엔드 엔지니어와 커뮤니케이션 비용 절감",
+         "work3": "오픈소스 UI 라이브러리(CoreUI)를 통해 개발, 기획, 디자인 과정 단순화",
+         "work4": "Axios를 모듈화하여 API 통신 관련 코드 길이 단축"
+      },
+      {
+         "id":"5",
+         "title":"바이오 혁신연계서비스 유지보수",
+         "description":"Frontend Development",
+         "imageKey":"bics",
+         "url":"",
+         "stack": "Laravel, Vue2",
+         "work1": "Laravel, Vue2로 작성된 코드를 파악하여 페이지네이션 추가, UI 수정 등 요청에 의한 유지보수 업무 진행"
+      },
+      {
+         "id":"6",
+         "title":"2022 JBU-CTF 1위",
+         "description":"Information security",
+         "imageKey":"ctf",
+         "url":"",
+         "stack": "Misc, Web, Crytography, Reversing, Pwnable",
+         "work1": "CTF 문제 해결",
+         "work2": "팀장 역할로 팀 리딩"
+      }
+       
+
+  
+    ],
+    "skills":[
+       {
+          "id":"1",
+          "title":"Javascript",
+          "period": "Familiarity",
+          "description":"ES6 문법을 통해서 서비스를 제작할 수 있습니다. 현재는 협업을 위해 Typescript를 공부 중입니다.",
+          "forFuture": "Check interview questions for filling  thos texts"
+       },
+       {
+          "id":"2",
+          "title":"ReactJS",
+          "period": "Familiarity",
+          "description":"React를 이용하여 프로덕트 개발 가능."
+       },
+       {
+          "id":"3",
+          "title":"Node.js(ExpressJS)",
+          "period": "Familiarity",
+          "description":"ExpressJS를 이용하여 백엔드 작업이 가능합니다. 현재는 Nest.js를 공부 중입니다."
+       },
+       {
+          "id":"4",
+          "title":"Mysql",
+          "period": "Experienced",
+          "description":"Sequelize ORM을 이용하여 DB를 구성한 경험이 있습니다."
+       },
+       {
+         "id":"5",
+         "title":"MongoDB",
+         "period": "Experienced",
+         "description":"Mongoose ORM를 이용하여 DB를 구성한 경험이 있습니다."
+      },
+      {
+         "id":"6",
+         "title":"DevOps",
+         "period": "Experienced",
+         "description":"AWS를 활용하여 개발에 필요한 환경을 구성할 수 있습니다."
+      },
+      {
+         "id":"7",
+         "title":"Information Security",
+         "period": "Experienced",
+         "description":"교내 해킹대회 4연패 경험"
+      }
+
+    ]
+ }
