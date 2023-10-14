@@ -121,7 +121,7 @@
        },
        {
           "id":"4",
-          "title":"Mysql",
+          "title":"MySQL",
           "period": "Experienced",
           "description":"Sequelize ORM을 이용하여 DB를 구성한 경험이 있습니다."
        },
