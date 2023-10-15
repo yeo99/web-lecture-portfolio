@@ -94,6 +94,18 @@
          "stack": "Misc, Web, Crytography, Reversing, Pwnable",
          "work1": "CTF 문제 해결",
          "work2": "팀장 역할로 팀 리딩"
+      },
+      {
+         "id":"7",
+         "title":"AMA(Ask me anything) 서비스 개발(진행중)",
+         "description":"Backend Development",
+         "imageKey":"ama",
+         "url":"",
+         "stack": "ES6+, Next.js, TailwindCSS, MongoDB",
+         "work1": "로그인, 로그아웃, 회원가입 기능",
+         "work2": "마이페이지 기능",
+         "work3": "링크를 통해 익명으로 질문을 작성. 호스트는 답변",
+         "work4": "익명 질문 댓글에도 수정 및 삭제를 위해 로그인 기능 추가"
       }
        
 
