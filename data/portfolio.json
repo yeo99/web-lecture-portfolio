@@ -54,6 +54,20 @@
       },
       {
          "id":"3",
+         "title":"SuperStar 시리즈 가정의 달 이벤트 웹뷰 개발",
+         "description":"Frontend Development",
+         "imageKey":"susland",
+         "url":"",
+         "stack": "VanillaJS, JSTL, JSP, AWS, Figma",
+         "work1": "JSP에서 VanillaJS와 JSTL을 이용하여 인게임 웹뷰 개발",
+         "work2": "게임 플레이 후 쌓은 포인트로 주사위를 굴려 말판을 돌고, 아이템을 얻는 부루마불과 유사한 이벤트 페이지 개발",
+         "work3": "Spring Boot 기반 백엔드 개발자와 협업",
+         "work4": "Figma를 통해 웹 디자이너와 협업",
+         "work5": "게임 테마에 맞는 복잡한 애니메이션, 히든 말판 진입 등 다양한 인터렉션 구현",
+         "work6": "AWS를 이용하여 스테이징 서버, 프로덕트 서버에 배포"
+      },
+      {
+         "id":"4",
          "title":"보아치과 홈페이지 개발",
          "description":"Frontend Development",
          "imageKey":"boa",
@@ -65,7 +79,7 @@
          "work4": "미디어 쿼리를 이용하여 반응형 웹 페이지 제작"
       },
       {
-         "id":"4",
+         "id":"5",
          "title":"마켓뱅 와인 수입사 관리자 페이지 개발",
          "description":"Frontend Development",
          "imageKey":"marketbang",
@@ -77,7 +91,7 @@
          "work4": "Axios를 모듈화하여 API 통신 관련 코드 길이 단축"
       },
       {
-         "id":"5",
+         "id":"6",
          "title":"바이오 혁신연계서비스 유지보수",
          "description":"Frontend Development",
          "imageKey":"bics",
@@ -86,7 +100,7 @@
          "work1": "Laravel, Vue2로 작성된 코드를 파악하여 페이지네이션 추가, UI 수정 등 요청에 의한 유지보수 업무 진행"
       },
       {
-         "id":"6",
+         "id":"7",
          "title":"2022 JBU-CTF 1위",
          "description":"Information security",
          "imageKey":"ctf",
@@ -96,12 +110,36 @@
          "work2": "팀장 역할로 팀 리딩"
       },
       {
-         "id":"7",
-         "title":"AMA(Ask me anything) 서비스 개발(진행중)",
+         "id":"8",
+         "title":"AMA(Ask me anything) 서비스 개발",
          "description":"Backend Development",
          "imageKey":"ama",
          "url":"",
          "stack": "ES6+, Next.js, TailwindCSS, MongoDB",
+         "work1": "로그인, 로그아웃, 회원가입 기능",
+         "work2": "마이페이지 기능",
+         "work3": "링크를 통해 익명으로 질문을 작성. 호스트는 답변",
+         "work4": "익명 질문 댓글에도 수정 및 삭제를 위해 로그인 기능 추가"
+      },
+      {
+         "id":"9",
+         "title":"산림청 FGIS 개선 프로젝트",
+         "description":"Solution Development",
+         "imageKey":"sanrimchung",
+         "url":"",
+         "stack": "Python, PostgreSQL, Docker, Anaconda",
+         "work1": "기존 유료 라이센스인 ArcGIS 기반 업무 프로그램을 무료 라이센스인 QGIS 기반으로 개발하는 프로젝트",
+         "work2": "Python을 이용하여 공공 지리정보를 크롤링, 원천 지도 데이터를 .shp 및 .geojson 포맷으로 제작",
+         "work3": "제작한 원천 데이터를 PostgreSQL에 적재, Docker로 말아 1차 프로토타입 제작",
+         "work4": "정부 IDC 정책으로 인해 GeoServer를 이용한 Proxy 역할 서버 구축 고안, 2차 프로토타입 제작 후 시연"
+      },
+      {
+         "id":"10",
+         "title":"KIAT 지능형 자율운항 해양 누출 기름 회수기 개발",
+         "description":"Backend Development",
+         "imageKey":"kiat",
+         "url":"",
+         "stack": "ES6+, ExpressJS, PostgreSQL, SequelizeORM, Docker",
          "work1": "로그인, 로그아웃, 회원가입 기능",
          "work2": "마이페이지 기능",
          "work3": "링크를 통해 익명으로 질문을 작성. 호스트는 답변",
@@ -153,7 +191,7 @@
          "id":"7",
          "title":"Information Security",
          "period": "Experienced",
-         "description":"교내 해킹대회 4연패 경험"
+         "description":"교내 해킹대회 5연패 (2019 ~ 2023) 경험"
       }
 
     ]
