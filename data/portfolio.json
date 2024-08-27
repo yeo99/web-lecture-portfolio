@@ -139,11 +139,11 @@
          "description":"Backend Development",
          "imageKey":"kiat",
          "url":"",
-         "stack": "ES6+, ExpressJS, PostgreSQL, SequelizeORM, Docker",
-         "work1": "로그인, 로그아웃, 회원가입 기능",
-         "work2": "마이페이지 기능",
-         "work3": "링크를 통해 익명으로 질문을 작성. 호스트는 답변",
-         "work4": "익명 질문 댓글에도 수정 및 삭제를 위해 로그인 기능 추가"
+         "stack": "ES6+, ExpressJS, PostgreSQL, SequelizeORM, Docker, Linux",
+         "work1": "기름 누출 사고 발생 시, 자율 운행하여 기름을 회수하는 드론을 개발하는 프로젝트",
+         "work2": "해당 프로젝트에서 드론의 운행 경로 및 촬영 이미지를 수신, 관리자 페이지로 송신하는 ExpressJS기반의 서버 구축",
+         "work3": "드론 개발사에 IT 인력이 없어서 직접 출장하여 베어메탈 서버메탈 서버(ubuntu 20)를 세팅(SSH, 방화벽, 포트포워딩 등)",
+         "work4": "복잡한 파일 시스템 동작과 네트워크 통신 환경에 대한 이해"
       }
        
 
